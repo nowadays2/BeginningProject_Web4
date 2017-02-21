@@ -1,0 +1,166 @@
+.title_page{
+  font-size: 48px;
+font-family: 'sri_sury_wongsebold';
+/* text-align: center; */
+margin-top: 2%;
+margin-left: 10%;
+margin-right: 10%;
+border-bottom: 1px solid #d1d4d6;
+line-height: 80px;
+}
+.box_step{
+   width:60%;
+  height: 12%;
+  margin-right: auto;
+  margin-left: auto;
+  /*background-color:#FAFAFA;*/
+  padding-top: 13px;
+  padding-left: 7%;
+  padding-right: 5%;
+  margin-top: 30px;
+  margin-bottom: 45px;
+
+}
+.product_total {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-family: 'cs_prajadregular';
+  text-align: center;
+}
+.box_table{
+  width: 100%;
+  height: auto;
+  padding-bottom: 10%;
+
+
+}
+.img_product{
+  width: 50px;
+  height: 50px;
+  background-color: #000;
+  margin-right: 10px;
+  display: inline-block;
+}
+.img_product a{
+
+  display: inline-block;
+}
+tr{
+  border-bottom: 2px solid #000000;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #D8D8D8;
+}
+tbody{
+  text-align: center;
+  margin-left: 3%;
+  margin-right:3%;
+}
+ .back_shop ,.submit_send{
+   width: 44%;
+   height: 40px;
+   border: 2px solid #3F3857;
+   -moz-border-radius: 35px;
+   /* -webkit-border-radius: 35px; */
+   float: left;
+   /* margin-top: 45px; */
+    margin-left: 20px;
+   text-align: center;
+   background-color: #3F3857;
+   /* padding: 21px; */
+   line-height: 40px;
+   text-decoration: none;
+   cursor: pointer;
+   color: white;
+font-family: 'sri_sury_wongseregular';
+font-size: 18px;
+}
+.update-test{
+  width: 120px;
+  height: 40px;
+  float: right;
+  margin-right: 40px;
+      margin-bottom: 20px;
+}
+.submit_send{
+  float: right;
+}
+input{
+  width: 30px;
+  font-size: 14px;
+  font-family: 'cs_prajadregular';
+  text-align: center;
+}
+.step1{
+  width: 30px; /* ความกว้าง */
+  height: 30px; /* ความสูง */
+  background: #D8D8D8; /* สี */
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+  border-radius: 15px;
+  display: inline-block;
+}
+.line1{
+  width: 120px;
+      height: 6px;
+      float: left;
+      position: static;
+      margin-top: 27px;
+  display: inline-block;
+  background: rgb(74,74,74);
+background: -moz-linear-gradient(left, rgba(74,74,74,1) 0%, rgba(74,74,74,1) 0%, rgba(216,216,216,1) 100%);
+background: -webkit-linear-gradient(left, rgba(74,74,74,1) 0%,rgba(74,74,74,1) 0%,rgba(216,216,216,1) 100%);
+background: linear-gradient(to right, rgba(74,74,74,1) 0%,#754b23 0%,rgba(216,216,216,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4a4a4a', endColorstr='#d8d8d8',GradientType=1 );
+}
+.step2{
+  width: 60px; /* ความกว้าง */
+  height: 60px; /* ความสูง */
+  background: #754B23; /* สี */
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  float: left;
+  margin-left: 80px;
+
+}
+
+.step3{
+  width: 60px; /* ความกว้าง */
+  height: 60px; /* ความสูง */
+  background: #D8D8D8; /* สี */
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+
+  float: left;
+  position: relative;
+
+}
+.line3{
+  width: 127px;
+height: 6px;
+float: left;
+background: #D8D8D8;
+position: relative;
+top: 28px;
+display: inline-block;
+}
+.step4{
+  width: 60px; /* ความกว้าง */
+  height: 60px; /* ความสูง */
+  background: #D8D8D8; /* สี */
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+
+  float: left;
+  position: relative;
+
+}
+.step1,.step2,.step3,.step4, a{
+  text-align: center;
+  line-height: 30px;
+  font-family: 'cs_prajadregular';
+
+}
